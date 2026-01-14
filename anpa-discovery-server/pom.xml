@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>anpa-discovery-server</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>anpa-discovery-server</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
